@@ -1,0 +1,2 @@
+# AWSSentinel
+AWS Sentinel Policies
